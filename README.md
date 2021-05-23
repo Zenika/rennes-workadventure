@@ -1,6 +1,9 @@
-# WorkAdventure Map Starter Kit
- 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+# WorkAdventure For Rennes Agency
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+
+Based on the work of [WorkAdventure](https://workadventu.re) with a lot of love by Zenika [Github](https://github.com/Zenika) [Website](https://www.zenika.com/)
+ * [Danezis Kevin](https://github.com/besstiolle/)
+ * Leclercq Jean-Michel
+
+Visit us on [https://zenika.github.io/rennes-workadventure/](https://zenika.github.io/rennes-workadventure/).
 
