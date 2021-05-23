@@ -96,6 +96,7 @@
             "scaleInEditor": 1
         }
     },
+    "frame.defaultDuration": 200,
     "last.exportedFilePath": "F:/GIT/rennes-workadventure",
     "last.externalTilesetPath": "F:/GIT/rennes-workadventure/tiledProject",
     "last.imagePath": "F:/GIT/rennes-workadventure",
