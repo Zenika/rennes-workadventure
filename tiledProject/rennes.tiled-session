@@ -8,6 +8,9 @@
     ],
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
         "E:/Users/bess/Documents/Taoki_tiles05.tsx": {
             "scaleInDock": 2,
             "scaleInEditor": 4
@@ -67,12 +70,18 @@
             }
         },
         "rennes.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 1,
+            "scale": 0.75,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 780,
-                "y": 201.33333333333334
+                "x": 334,
+                "y": 297.33333333333337
             }
+        },
+        "rennes.tmx#tileset_z_floor_and_wall": {
+            "scaleInDock": 1
+        },
+        "rennes.tmx#tileset_z_misc": {
+            "scaleInDock": 1
         },
         "tileset_z_floor_and_wall.tsx": {
             "scaleInDock": 1,
@@ -87,7 +96,7 @@
             "scaleInEditor": 1
         }
     },
-    "last.exportedFilePath": "E:/Users/bess/Documents",
+    "last.exportedFilePath": "F:/GIT/rennes-workadventure",
     "last.externalTilesetPath": "F:/GIT/rennes-workadventure/tiledProject",
     "last.imagePath": "F:/GIT/rennes-workadventure",
     "map.lastUsedExportFilter": "Fichiers de carte JSON (*.json)",
@@ -102,11 +111,11 @@
     ],
     "project": "rennes.tiled-project",
     "recentFiles": [
+        "tileset_z_misc.tsx",
+        "tileset_z_floor_and_wall.tsx",
+        "rennes.tmx",
         "rennes2.tmx",
         "tilesets_deviant_milkian_1.tsx",
-        "rennes.tmx",
-        "tileset_z_floor_and_wall.tsx",
-        "tileset_z_misc.tsx",
         "E:/Users/bess/Documents/Taoki_tiles05.tsx",
         "E:/Users/bess/Documents/ortho20.tmx",
         "E:/Users/bess/Downloads/Pipoya RPG World Tileset 48x48 40x40 32x32 for Tiled1.5/32x32/sample.tmx",
