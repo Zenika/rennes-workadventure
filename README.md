@@ -7,3 +7,9 @@ Based on the work of [WorkAdventure](https://workadventu.re) with a lot of love 
 
 Visit us on [https://zenika.github.io/rennes-workadventure/](https://zenika.github.io/rennes-workadventure/).
 
+## Licences
+
+We found a loving stuff here and there
+
+ * http://slazyu.blog.fc2.com/?cat=5
+ * https://www.deviantart.com/aprilsundae/art/Candle-Animation-Study-523693226
