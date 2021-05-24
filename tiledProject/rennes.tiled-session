@@ -111,7 +111,7 @@
         "tileset_z_misc.tsx"
     ],
     "project": "rennes.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "tileset_z_misc.tsx",
         "tileset_z_floor_and_wall.tsx",
