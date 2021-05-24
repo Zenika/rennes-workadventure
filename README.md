@@ -9,7 +9,8 @@ Visit us on [https://zenika.github.io/rennes-workadventure/](https://zenika.gith
 
 ## Licences
 
-We found a loving stuff here and there
+We found a lot of loving stuff here and there
 
  * http://slazyu.blog.fc2.com/?cat=5
  * https://www.deviantart.com/aprilsundae/art/Candle-Animation-Study-523693226
+ * https://pipoya.itch.io/pipoya-rpg-tileset-32x32
