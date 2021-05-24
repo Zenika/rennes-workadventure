@@ -630,8 +630,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":20,
          "firstgid":385,
-         "source":"tileset_unicorn.json"
+         "image":"tileset_unicorn.png",
+         "imageheight":240,
+         "imagewidth":960,
+         "margin":0,
+         "name":"tileset_unicorn",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":48,
+         "tilewidth":48
         }],
  "tilewidth":32,
  "type":"map",
