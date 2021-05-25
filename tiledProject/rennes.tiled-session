@@ -9,7 +9,8 @@
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 3
         },
         "E:/Users/bess/Documents/Taoki_tiles05.tsx": {
             "scaleInDock": 2,
@@ -70,11 +71,11 @@
             }
         },
         "rennes.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 1,
+            "scale": 1.5,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 813,
-                "y": 691
+                "x": 871.6666666666665,
+                "y": 475.3333333333333
             }
         },
         "rennes.tmx#tileset_z_floor_and_wall": {
@@ -113,8 +114,8 @@
     "project": "rennes.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "tileset_z_misc.tsx",
         "rennes.tmx",
+        "tileset_z_misc.tsx",
         "tileset_z_floor_and_wall.tsx",
         "rennes2.tmx",
         "tilesets_deviant_milkian_1.tsx",
