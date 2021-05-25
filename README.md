@@ -15,3 +15,4 @@ We found a lot of loving stuff here and there
  * https://www.deviantart.com/aprilsundae/art/Candle-Animation-Study-523693226
  * https://pipoya.itch.io/pipoya-rpg-tileset-32x32
  * https://gitlab.com/TMW2/clientdata/tree/master/graphics/tilesets
+ * https://fr.wikipedia.org/wiki/Pixel_art

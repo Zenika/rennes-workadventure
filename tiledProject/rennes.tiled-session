@@ -111,10 +111,10 @@
         "rennes.tmx"
     ],
     "project": "rennes.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
-        "rennes.tmx",
         "tileset_z_misc.tsx",
+        "rennes.tmx",
         "tileset_z_floor_and_wall.tsx",
         "rennes2.tmx",
         "tilesets_deviant_milkian_1.tsx",
