@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "rennes.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
@@ -70,11 +70,11 @@
             }
         },
         "rennes.tmx": {
-            "scale": 1,
+            "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1091.5,
-                "y": 774
+                "x": 813,
+                "y": 691
             }
         },
         "rennes.tmx#tileset_z_floor_and_wall": {
@@ -108,13 +108,14 @@
     "map.tileHeight": 32,
     "map.tileWidth": 32,
     "openFiles": [
+        "rennes.tmx"
     ],
     "project": "rennes.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "rennes.tmx",
         "tileset_z_misc.tsx",
         "tileset_z_floor_and_wall.tsx",
-        "rennes.tmx",
         "rennes2.tmx",
         "tilesets_deviant_milkian_1.tsx",
         "E:/Users/bess/Documents/Taoki_tiles05.tsx",
