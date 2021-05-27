@@ -72,18 +72,18 @@
         },
         "rennes.tmx": {
             "scale": 2,
-            "selectedLayer": 3,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1021,
-                "y": 648.5
+                "x": 1255,
+                "y": 316.5
             }
         },
         "rennes.tmx#tileset_z_floor_and_wall": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "rennes.tmx#tileset_z_misc": {
-            "scaleInDock": 1,
+            "scaleInDock": 1.5,
             "scaleInEditor": 3
         },
         "tileset_z_floor_and_wall.tsx": {
