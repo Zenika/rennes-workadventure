@@ -280,7 +280,7 @@
          "name":"Meubles Non Collides",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -292,7 +292,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -303,7 +303,7 @@
          "name":"Above Player > Walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
