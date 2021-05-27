@@ -112,7 +112,7 @@
         "rennes.tmx"
     ],
     "project": "rennes.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "rennes.tmx",
         "tileset_z_misc.tsx",
