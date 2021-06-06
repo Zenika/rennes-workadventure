@@ -17,3 +17,5 @@ We found a lot of loving stuff here and there
  * https://gitlab.com/TMW2/clientdata/tree/master/graphics/tilesets
  * https://fr.wikipedia.org/wiki/Pixel_art
  * https://www.deviantart.com/milkian/gallery/60424840/recursos
+ * https://forums.rpgmakerweb.com
+ * http://www.pigsodus.com/blog/2015/12/
